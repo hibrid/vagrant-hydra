@@ -29,7 +29,7 @@ Vagrant.configure("2") do |config|
       },
       :meteor_windows => {
         :apps => [
-          "mymeteorapp"
+          "corporatesite"
         ]
       }
     }
